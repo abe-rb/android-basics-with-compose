@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_1_title">Woman with a Parasol - Madame Monet and Her Son</string>
+    <string name="art_2_title">Charles Sumner</string>
+    <string name="art_3_title">Portrait of Ambroise Vollard with a Cat</string>
+    <string name="art_1_artist">Claude Monet</string>
+    <string name="art_2_artist">William Morris Hunt</string>
+    <string name="art_3_artist">Pierre Bonnard</string>
+    <string name="art_1_year">1875</string>
+    <string name="art_2_year">1875</string>
+    <string name="art_3_year">1924</string>
+</resources>
